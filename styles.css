@@ -23,3 +23,17 @@
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0)
 }
+
+.account {
+    background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7)
+        ),
+        url('images/home1.jpg');
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
